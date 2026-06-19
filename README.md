@@ -22,7 +22,7 @@ Buscador interactivo de juegos de Steam. Muestra precio, descripción, imagen, g
 
 ```bash
 
-git clone https://github.com/tuusuario/steam-explorer.git
+git clone https://github.com/devmayra/steam-explorer.git
 
 cd steam-explorer
 
