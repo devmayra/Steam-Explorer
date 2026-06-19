@@ -24,11 +24,11 @@ Buscador interactivo de juegos de Steam. Muestra precio, descripción, imagen, g
 
 git clone https://github.com/devmayra/steam-explorer.git
 
-cd steam-explorer
+cd Steam-Explorer
 
 python -m venv venv
 
-venv\\Scripts\\activate
+venv\Scripts\activate
 
 pip install -r requirements.txt
 
