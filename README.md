@@ -52,6 +52,8 @@ steam-explorer/
 
 ├── requirements.txt
 
+├── README.md
+
 └── .gitignore
 
 ```
