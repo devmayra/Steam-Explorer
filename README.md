@@ -1,4 +1,4 @@
-\#  Steam Explorer
+#  Steam Explorer
 
 
 
@@ -6,17 +6,17 @@ Buscador interactivo de juegos de Steam. Muestra precio, descripción, imagen, g
 
 
 
-\## Tecnologías
+## Tecnologías
 
 
 
-\- Python + Streamlit
+- Python + Streamlit
 
-\- Steam Store API + SteamSpy API (sin API key)
+- Steam Store API + SteamSpy API (sin API key)
 
 
 
-\## Instalación local
+## Instalación local
 
 
 
@@ -38,7 +38,7 @@ streamlit run app.py
 
 
 
-\## Estructura
+## Estructura
 
 
 
