@@ -48,7 +48,7 @@ steam-explorer/
 
 ├── app.py          # Interfaz
 
-├── steam\_api.py    # Conexión con las APIs
+├── steam_api.py    # Conexión con las APIs
 
 ├── requirements.txt
 
