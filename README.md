@@ -1,4 +1,4 @@
-#  Steam Explorer
+# 🎮 Steam Explorer
 
 
 
@@ -56,3 +56,8 @@ steam-explorer/
 
 ```
 
+
+## Notas
+
+- SteamSpy puede no tener estadísticas de juegos AAA recientes o de publishers grandes
+- Si un juego no muestra estadísticas, es normal — no es un error
